@@ -1,0 +1,2 @@
+id,type,slug,name,one_line,physical,personality,lore,tags,art,mechanics,links,created_at,updated_at,version
+"00000000-0000-4000-8000-000000000002","Location","sample-village","Sample Village","A small riverside settlement surrounded by pine forest.","Cobblestone streets, wooden houses, smoke from chimneys.","N/A","A peaceful hamlet serving as a demo entry.","village,placeholder","","","","2025-11-08T00:00:00Z","2025-11-08T00:00:00Z",1

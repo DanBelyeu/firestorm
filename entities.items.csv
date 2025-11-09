@@ -1,0 +1,2 @@
+id,type,slug,name,one_line,physical,personality,lore,tags,art,mechanics,links,created_at,updated_at,version
+"00000000-0000-4000-8000-000000000004","Item","sample-relic","Sample Relic","An old artifact with mysterious engravings.","Palm-sized stone disc covered in runes.","N/A","Serves as an example entry for initialization.","artifact,placeholder","","","","2025-11-08T00:00:00Z","2025-11-08T00:00:00Z",1
